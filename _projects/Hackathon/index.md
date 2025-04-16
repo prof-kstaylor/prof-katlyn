@@ -5,5 +5,5 @@ description:  Developed two winning, productized Hackathon projects: in-app mess
 skills: 
 - Project Management
 - Sprint Cycle
-main-image: /project.webp 
+main-image: /_projects/Hackathon 2022 Badging Project Presentation.pptx (1).png 
 ---
